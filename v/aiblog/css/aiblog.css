@@ -5,7 +5,7 @@
 }
 
 @font-face {
-	font-family: 'yzmfont';src: url('../css/aiblog.ttf');
+	font-family: 'yzmfont';src: url('https://cdn.jsdelivr.net/gh/qishao520/upload@master/bfq_52meme_top/css/aiblog.ttf');
 }
 
 button[data-balloon] {
@@ -1149,7 +1149,7 @@ f
 	word-break: normal;
 	z-index: 2;
 	pointer-events: none;
-	background: url(../img/sign.png) no-repeat center;
+	background: url(https://cdn.jsdelivr.net/gh/qishao520/upload@master/bfq_52meme_top/images/sign.png) no-repeat center;
 }
 
 .aiblog-controller .aiblog-bar-wrap .aiblog-bar-time.hidden {
@@ -2548,14 +2548,14 @@ ul::-webkit-scrollbar-track {
 	height: 100px;
 	-moz-animation: spinoffPulse .9s infinite linear;
 	-webkit-animation: unset;
-	background-image: url(https://ae01.alicdn.com/kf/HTB1Zzg9bvBj_uVjSZFp5jc0SXXau.gif);
+	background-image: url(https://cdn.jsdelivr.net/gh/qishao520/upload@master/bfq_52meme_top/images/HTB1Zzg9bvBj_uVjSZFp5jc0SXXau.gif);
 	background-size: 100%;
-	background-image: url(http://tva1.sinaimg.cn/large/007X8olVly1g8u09dpnksg300w00w742.gif);
+	background-image: url(https://cdn.jsdelivr.net/gh/qishao520/upload@master/bfq_52meme_top/images/007X8olVly1g8u09dpnksg300w00w742.gif);
 	top: 50%;
 	left: 50%;
 	height: 32px;
 	width: 32px;
-	background-image: url(https://s2.ax1x.com/2019/12/19/QqqCVK.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/qishao520/upload@master/bfq_52meme_top/images/QqqCVK.png);
 	-webkit-animation: vod_loading 1s steps(30) infinite;
 	width: 54px;
 	height: 20px;
@@ -2563,7 +2563,7 @@ ul::-webkit-scrollbar-track {
 	background-size: 54px 600px;
 	animation: vod_loading 1s steps(30) infinite;
 	opacity: 1;
-	background-image: url(../img/loading.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/qishao520/upload@master/bfq_52meme_top/images/loading.png);
 }
 
 .aiblog:-webkit-full-screen .aiblog-fulloff-icon {
@@ -2630,7 +2630,7 @@ ul::-webkit-scrollbar-track {
 }
 
 #gg {
-	background: url(https://ae01.alicdn.com/kf/HTB1IWNXc8aE3KVjSZLeq6xsSFXa9.jpg) no-repeat center;
+	background: url(https://cdn.jsdelivr.net/gh/qishao520/upload@master/bfq_52meme_top/images/HTB1IWNXc8aE3KVjSZLeq6xsSFXa9.jpg) no-repeat center;
 	background-size: contain;
 	width: 100%;
 	height: 100%;
@@ -2680,10 +2680,10 @@ ul::-webkit-scrollbar-track {
 }
 
 .loading .pic {
-	background: url(https://ae01.alicdn.com/kf/HTB1Zzg9bvBj_uVjSZFp5jc0SXXau.gif) no-repeat;
-	-background: url(https://s2.ax1x.com/2019/11/16/M0Jy01.gif) no-repeat;
-	background: url(../img/loading.gif) no-repeat;
-	-background: url(http://tva1.sinaimg.cn/large/007X8olVly1g8tzomzqxfg302i02iglg.gif) no-repeat;
+	background: url(https://cdn.jsdelivr.net/gh/qishao520/upload@master/bfq_52meme_top/images/HTB1Zzg9bvBj_uVjSZFp5jc0SXXau.gif) no-repeat;
+	-background: url(https://cdn.jsdelivr.net/gh/qishao520/upload@master/bfq_52meme_top/images/M0Jy01.gif) no-repeat;
+	background: url(https://cdn.jsdelivr.net/gh/qishao520/upload@master/bfq_52meme_top/images/loading.gif) no-repeat;
+	-background: url(https://cdn.jsdelivr.net/gh/qishao520/upload@master/bfq_52meme_top/images/007X8olVly1g8tzomzqxfg302i02iglg.gif) no-repeat;
 	width: 80px;
 	height: 115px;
 	background-size: 100%;
@@ -2700,9 +2700,9 @@ ul::-webkit-scrollbar-track {
 	height: 100px;
 	-moz-animation: spinoffPulse .9s infinite linear;
 	-webkit-animation: unset;
-/* background-image: url(https://ae01.alicdn.com/kf/HTB1Zzg9bvBj_uVjSZFp5jc0SXXau.gif); */
+/* background-image: url(https://cdn.jsdelivr.net/gh/qishao520/upload@master/bfq_52meme_top/images/HTB1Zzg9bvBj_uVjSZFp5jc0SXXau.gif); */
 	background-size: 100%;
-/* background-image: url(http://tva1.sinaimg.cn/large/007X8olVly1g8u09dpnksg300w00w742.gif); */
+/* background-image: url(https://cdn.jsdelivr.net/gh/qishao520/upload@master/bfq_52meme_top/images/007X8olVly1g8u09dpnksg300w00w742.gif); */
 	top: 50%;
 	left: 50%;
 	height: 110px;
