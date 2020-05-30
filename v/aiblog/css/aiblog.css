@@ -5,7 +5,7 @@
 }
 
 @font-face {
-	font-family: 'yzmfont';src: url('https://cdn.jsdelivr.net/gh/qishao520/upload@master/bfq_52meme_top/css/aiblog.ttf');
+	font-family: 'yzmfont';src: url('../css/aiblog.ttf');
 }
 
 button[data-balloon] {
